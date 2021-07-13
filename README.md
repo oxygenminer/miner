@@ -6,13 +6,13 @@ Oxygen Miner is a windows desktop mining software that runs on 32bits and 64bits
 Sign Up with Oxygen Miner and earn $25.00 USD as a bonus. Enjoy.
 
 - Features & Pages;
-Login
-Register
-Password Recovery
-Dashboard
-Mine oxygen
-Mining Pool
-Settings
+- Login
+- Register
+- Password Recovery
+- Dashboard
+- Mine oxygen
+- Mining Pool
+- Settings
 
 Oxygen Miner Alpha 1.0.0 Build
 Download Link: https://mega.nz/folder/wGwDzS4Z#ZQ7oNKGGXlfZxkdFwU7UAg
