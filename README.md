@@ -15,7 +15,7 @@ Sign Up with Oxygen Miner and earn $25.00 USD as a bonus. Enjoy.
 - Settings
 
 Oxygen Miner Alpha 1.0.0 Build
-Download Link: https://mega.nz/folder/wGwDzS4Z#ZQ7oNKGGXlfZxkdFwU7UAg
+Download Link: https://sourceforge.net/projects/oxygenminer/
 Windows 8.1, 10, 11
 
 In case you might have error (especially when you are using oxygen 3 on Mac), please kindly refer to the fix of issue 10910 in oxygenminer.group@gmail.com
